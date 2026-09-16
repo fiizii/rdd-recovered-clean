@@ -1,5 +1,5 @@
 Caution:
-RDD is discontinued, and many forks contain code that downloads non official roblox files while claiming they are needed, which is simply not true
+RDD is discontinued, and many forks contain code that download non official roblox files while claiming they are needed, which is simply not true
 SRC.zip has a fixed version of ./src, as i just forked this from the original backup (which was semi broken)
 feel free to replace jszip bundle if you dont trust it
 
