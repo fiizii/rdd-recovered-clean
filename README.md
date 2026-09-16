@@ -1,13 +1,12 @@
-Caution
+Caution:
+RDD is discontinued, and many forks contain code that downloads non official roblox files while claiming they are needed, which is simply not true
+SRC.zip has a fixed version of ./src, as i just forked this from the original backup (which was semi broken)
+feel free to replace jszip bundle if you dont trust it
 
-The only official host of RDD is rdd.[latte.to]. Under no circumstances is Latte Softworks responsible for any potential harm caused by using an unofficial fork/rehost of RDD, though anyone is free to fork off of or rehost RDD as it is under the MIT license. RDD is a static website with none of its own backend infrastructure, binaries are fetched directly from Roblox's official content delivery network via setup-aws.[rbxcdn.com].
+enjoy, <3
 
-RDD ("Roblox Deployment Downloader")
-Last Modified
 
-Locally download Roblox deployments (Windows/Mac) directly from your browser!
 
-Hosted officially @ https://rdd.latte.to
 
 What is this?
 RDD can assemble plain resources directly from Roblox's setup S3 storage bucket into a format the user would expect to be able to directly extract/run from. Everything is fetched locally in your browser, without any additional required server resources!
